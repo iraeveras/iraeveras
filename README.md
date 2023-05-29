@@ -1,5 +1,5 @@
 ## Obrigado por visitar o meu perfil!
-## Agradeço por qualquer contibuição para a minha melhora!
+## Obrigado pelas indicações de melhoria!
 <div>
   <a href="https://github.com/iraeveras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
