@@ -1,4 +1,4 @@
-## Estudando sempre!
+## Estudando sempre! 💻
 ## Obrigado pelas indicações de melhoria!
 <div>
   <a href="https://github.com/iraeveras">
