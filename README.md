@@ -4,7 +4,7 @@
 ### 💡 Sobre mim
 <p>Estou envolvido há pouco mais de 2 anos com programação web, tentando migrar de carreira.</p>
 
-<div>
+<div align="center">
   <a href="https://github.com/iraeveras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraeveras&layout=compact&langs_count=6&theme=tokyonight"/>
