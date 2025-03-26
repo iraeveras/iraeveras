@@ -2,7 +2,7 @@
 🚀 **Desenvolvedor Full-Stack**
 
 ### 💡 Sobre mim
-<p>Buscando a minha primeira oportunidade profissionalmente na área, mas estou envolvido há pouco mais de 2 anos com programação web.</p>
+<p>Estou envolvido há pouco mais de 2 anos com programação web, tentando migrar de carreira.</p>
 
 <div>
   <a href="https://github.com/iraeveras">
