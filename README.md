@@ -1,8 +1,8 @@
 # 👋 Olá, sou o Iraê Veras!
-🚀 **Desenvolvedor Full-Stack**
 
-### 💡 Sobre mim
-<p>Estou envolvido há pouco mais de 2 anos com programação web, tentando migrar de carreira.</p>
+## 💡 Sobre mim
+<p>Estou envolvido há pouco mais de 2 anos com programação web, mas estudando sem parar , tentando migrar de carreira.</p>
+🚀 **Desenvolvedor Full-Stack**
 
 <div align="center">
   <a href="https://github.com/iraeveras">
