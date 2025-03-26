@@ -2,6 +2,7 @@
 
 ## 💡 Sobre mim
 <p>Estou envolvido há pouco mais de 2 anos com programação web, mas estudando sem parar , tentando migrar de carreira.</p>
+
 🚀 **Desenvolvedor Full-Stack**
 
 <div align="center">
