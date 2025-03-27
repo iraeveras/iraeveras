@@ -7,8 +7,8 @@
 
 <div >
   
-  <img  height="244em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img height="244em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraeveras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img  height="225em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraeveras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
   <div>
     <a><img height="360em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iraeveras&layout=compact&theme=tokyonight" alt="Cartão de perfil"></a>
   </div>
