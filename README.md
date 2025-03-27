@@ -5,13 +5,16 @@
 
 🚀 **Desenvolvedor Full-Stack**
 
-<div align="center">
-  <a href="https://github.com/iraeveras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraeveras&layout=compact&langs_count=6&theme=tokyonight"/>
+<div >
+  
+  <img  height="244em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
+  <img height="244em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraeveras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <div>
+    <a><img height="360em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iraeveras&layout=compact&theme=tokyonight" alt="Cartão de perfil"></a>
+  </div>
 </div>
     
-<h2 align="left" id="macropower-tech">Conhecimento nas Tecnologias</h2><br>
+<h2 align="left" id="macropower-tech">Conhecimento nas Tecnologias</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -72,13 +75,14 @@
 ---
 
 ### ⚡ Habilidade
-
+  
 #### **Frontend**  
 - **React, Next**  
 - **Tailwind CSS, MUI**  
 
 #### **Backend**  
-- **Node.js** 
+- **Node.js**
+- **Prisma ORM**
 
 #### **Databases & Cloud**  
 - **MySQL, MongoDB**  
@@ -86,7 +90,7 @@
 
 #### **DevOps & Tools**  
 - **Git, GitHub**  
- 
+
 ---
 
 ### **Experiência em Desenvolvimento Web**  
@@ -95,9 +99,20 @@
 - **React, NextJS** (Frontend frameworks)
 - **Node.js, Express** (Tecnologias de back-end)
 - **RESTful APIs** (API development)
-- **SQL, NoSQL** (Gerenciamento de banco de dados)
+- **SQL, NoSQL, ORM** (Gerenciamento de banco de dados)
 
---- 
+---
+
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <a href="https://github.com/iraeveras/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=iraeveras&color=blue&style=for-the-badge" alt="Profile Views" style="transform: scale(1.5);"/>
+    </a>
+    <a href="https://github.com/iraeveras?tab=followers">
+        <img src="https://img.shields.io/github/followers/iraeveras?label=Followers&style=for-the-badge" alt="Followers" style="transform: scale(1.5);"/>
+    </a> 
+</p>
+
+---
 
 ### **Contato** 
  
