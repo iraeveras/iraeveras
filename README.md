@@ -5,6 +5,10 @@
 
 🚀 **Desenvolvedor Full-Stack**
 
+<p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
+
 <div align="center">
   
   <img  height="202em" src="https://github-readme-stats.vercel.app/api?username=iraeveras&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
