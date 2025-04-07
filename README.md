@@ -126,3 +126,7 @@
 </div>
 
 ---
+
+<p align="center">
+  <img alt="Contributions" title="Contributions" src="https://github.com/iraeveras/iraeveras/blob/contributions/snake.svg"/>
+</p>
