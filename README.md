@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Iraê Veras!
-# 👋 Hi, I am Iraê Veras!
+# 👋 Hi, I'm Iraê Veras!
 
 ## 💡 Sobre mim
 <p>Estou envolvido há pouco mais de 2 anos com programação web, mas estudando sem parar , tentando migrar de carreira.</p>
