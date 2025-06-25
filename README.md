@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iraê Veras!
 
-## 💡 Sobre mim
+## 💡 About me
 <p>I've been involved with web programming for a little over 2 years, but I'm studying non-stop, trying to change careers.</p>
 
 🚀 **Full-Stack Developer**
