@@ -1,4 +1,3 @@
-# 👋 Olá, sou o Iraê Veras!
 # 👋 Hi, I'm Iraê Veras!
 
 ## 💡 Sobre mim
