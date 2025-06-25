@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Iraê Veras!
 
 ## 💡 Sobre mim
-<p>Estou envolvido há pouco mais de 2 anos com programação web, mas estudando sem parar , tentando migrar de carreira.</p>
+<p>I've been involved with web programming for a little over 2 years, but I'm studying non-stop, trying to change careers.</p>
 
-🚀 **Desenvolvedor Full-Stack**
+🚀 **Full-Stack Developer**
 
 <p align="center">
   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
@@ -18,7 +18,7 @@
   </div>
 </div>
     
-<h2 align="left" id="macropower-tech">🎯Conhecimento nas Tecnologias</h2>
+<h2 align="left" id="macropower-tech">🎯Knowledge of Technologies</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -78,7 +78,7 @@
 
 ---
 
-### ⚡ Habilidade
+### ⚡ Ability
   
 #### **Frontend**  
 - **React, Next**  
@@ -97,13 +97,13 @@
 
 ---
 
-### **Experiência em Desenvolvimento Web**  
+### **Experience in Web Development**  
 
-- **HTML, CSS, JavaScript** (Principais tecnologias da web)
+- **HTML, CSS, JavaScript** (Main web technologies)
 - **React, NextJS** (Frontend frameworks)
-- **Node.js, Express** (Tecnologias de back-end)
+- **Node.js, Express** (Backend technologies)
 - **RESTful APIs** (API development)
-- **SQL, NoSQL, ORM** (Gerenciamento de banco de dados)
+- **SQL, NoSQL, ORM** (Database management)
 
 ---
 
@@ -118,7 +118,7 @@
 
 ---
 
-### **Contato** 
+### **Contact** 
  
 <div>
   <a href = "mailto:irae.online@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
